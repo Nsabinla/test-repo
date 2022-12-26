@@ -1,4 +1,4 @@
-# test-repo
+# test-repo :grinning:
 
 ![This is an image](https://i.infopls.com/images/americanflag3.gif)
 
