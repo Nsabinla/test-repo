@@ -17,3 +17,16 @@ This is a sample repo for learning git
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
+
+<details><summary>CLICK ME and I will show Magic</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+  Hi this is Kenneth Repo
+```
+
+</p>
+</details>
