@@ -1,5 +1,7 @@
 # test-repo
 
+![This is an image](https://i.infopls.com/images/americanflag3.gif)
+
 # Heading 1
 ## Heading 2
 ### Heading 3
