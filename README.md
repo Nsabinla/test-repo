@@ -1,4 +1,4 @@
-# test-repo :grinning:
+# test-repo for learning :grinning:
 
 ![This is an image](https://i.infopls.com/images/americanflag3.gif)
 
